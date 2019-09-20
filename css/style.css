@@ -768,6 +768,10 @@ h3{
 	.sidebar .carousel, .sidebar .banner{
 		display: inline-block;
 	}
+	
+	.menu-carousel .carousel-caption .btn-red{
+		font-size: 18px;
+	}
 }
 
 /* Extra Small Devices, Phones */
@@ -782,6 +786,10 @@ h3{
 	
 	.bottom-content{
 		padding: 25px;
+	}
+	
+	.menu-carousel .carousel-caption .btn-red{
+		font-size: 12px;
 	}
 }
 
